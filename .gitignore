@@ -1,0 +1,3 @@
+*.log
+privatekey.txt
+.DS_Store
