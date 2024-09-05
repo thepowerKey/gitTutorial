@@ -1,10 +1,12 @@
 public class Main {
+
 	public static void main(String[] args) {
 		int[] numbers = {1, 2, 3, 4, 5};
 		System.out.println("The average is: " +
 		average(numbers));
 	}
-// Non-working average function (needs a fix)
+
+//Updated average function:
 	public static double average(int[] nums) {
 		
 		double cur_total = 0;
